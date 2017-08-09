@@ -2,25 +2,25 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle sourcefetch-package",
-        "command": "sourcefetch-package:toggle"
+        "label": "Fetch code",
+        "command": "sourcefetch:fetch"
       }
     ]
   },
   "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "sourcefetch-package",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "sourcefetch-package:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  {
+    "label": "Packages",
+    "submenu": [
+      {
+        "label": "sourcefetch",
+        "submenu": [
+          {
+            "label": "Fetch code",
+            "command": "sourcefetch:fetch"
+          }
+        ]
+      }
+    ]
+  }
+]
 }
