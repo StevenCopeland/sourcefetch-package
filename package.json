@@ -3,7 +3,13 @@
   "main": "./lib/sourcefetch-package",
   "version": "0.5.0",
   "description": "Atom Package",
-  "keywords": [],
+  "keywords": [
+    "package",
+    "fetch",
+    "url",
+    "sourcefetch",
+    "source"
+  ],
   "activationCommands": {
     "atom-workspace": "sourcefetch:fetch"
   },
