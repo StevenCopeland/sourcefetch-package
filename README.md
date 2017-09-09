@@ -1,5 +1,5 @@
 # sourcefetch-package package
 
-A short description of your package.
+This packages takes a valid url on a website and downloads all that code on to the atom page.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](screenshot.gif.gif)
