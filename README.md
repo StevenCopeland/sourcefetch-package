@@ -6,4 +6,4 @@ Download in terminal:
 
 ```apm install sourcefetch```
 
-![A screenshot of your package](screenshot.gif.gif)
+![A screenshot of your package](screenshot.gif)
